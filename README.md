@@ -17,7 +17,7 @@
 
 - [Output Gallery](./output/README.md)
 - [Happy Accidents](./output/happy-accidents/README.md)
-- [정리 노트](./NOTE.pdf)
+- [정리 노트1](./NOTE.pdf), [정리 노트2](./NOTE2.pdf)
 
 ## 참고
 - [Ray Tracing By On Weekends(레이트레이싱 한주만에 끝내기)](https://www.yamyamcoding.com/2e30b1ff-a61e-801f-b1a9-ea972134da0)
